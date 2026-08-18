@@ -1,0 +1,4 @@
+interface:
+  display_name: "海外 B2B 职业侦察"
+  short_description: "把行业调研变成公司清单与可投海外销售 JD"
+  default_prompt: "Use $overseas-b2b-career-scout to turn an industry into a concise company target list and verified live overseas-sales job map for Europe, Singapore, and Malaysia."
